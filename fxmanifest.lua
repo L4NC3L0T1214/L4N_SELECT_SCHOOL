@@ -15,8 +15,7 @@ client_script {
     'core/cl_event.lua'
 }
 server_script {
-    'core/sv_event.lua',
-    'print_support_message.lua'
+    'core/sv_event.lua'
 }
 shared_script 'config.lua'
 
